@@ -7,6 +7,7 @@ una edad igual o superior a 60. Debe validar para cada ingreso que los valores e
 un rango entre 1 y 120 años. En caso de error deberá notificar y solicitar un nuevo valor.
 */
 //crear funcion que genere numeros aleatorios entre 0 y 120
+//realizamos la segunda pruba
 
 var generarNumeroAleatorioEntre = (min,max) => {
    return Math.floor(Math.random()*(max - min+1)+min);
