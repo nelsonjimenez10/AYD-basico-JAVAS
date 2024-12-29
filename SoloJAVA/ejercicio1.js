@@ -1,4 +1,6 @@
 //calcular area y perimetro de figuras planas
+//y ahora no se como hacer eso
+//si se puede editar y ver lo que tenia antes
 
 var ladoa = 20 //lado a
 var ladob = 30 //lado b, para el tringulo es la base
